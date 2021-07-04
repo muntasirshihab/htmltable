@@ -1,0 +1,16 @@
+.blog{
+    border: 2px solid green;
+    border-radius: 20px;
+    margin: 2px;
+    width: 45%;
+    display: inline-block;
+}
+h1,h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+#yomama{
+    color: blue;
+}
